@@ -1,0 +1,13 @@
+site_name: Prueba día 1
+
+theme:
+  name: material
+
+markdown_extensions:
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
